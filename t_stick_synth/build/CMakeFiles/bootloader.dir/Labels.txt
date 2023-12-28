@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/CMakeFiles/bootloader
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/CMakeFiles/bootloader.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/CMakeFiles/bootloader-complete.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ian/TStickProject/sygaldry/sygaldry-instruments/t_stick_synth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

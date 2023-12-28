@@ -1,0 +1,15 @@
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /nix/store/f9q9ifxzrfaacn6dsw7n9qggq2jfcmd0-gcc-wrapper-13.1.0/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /nix/store/f9q9ifxzrfaacn6dsw7n9qggq2jfcmd0-gcc-wrapper-13.1.0/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/build

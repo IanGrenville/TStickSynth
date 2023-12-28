@@ -1,0 +1,12 @@
+Compiler supported targets: xtensa-esp32-elf
+
+CMake Warning at /home/ian/TStickProject/sygaldry/nixenv/esp-idf/tools/cmake/project.cmake:380 (__project):
+  VERSION keyword not followed by a value or was followed by a value that
+  expanded to nothing.
+Call Stack (most recent call first):
+  /home/ian/TStickProject/sygaldry/dependencies/pfr/CMakeLists.txt:8 (project)
+
+
+qmake: could not exec '/usr/lib/qt5/bin/qmake': No such file or directory
+qmake: could not exec '/usr/lib/qt5/bin/qmake': No such file or directory
+qmake: could not exec '/usr/lib/qt5/bin/qmake': No such file or directory

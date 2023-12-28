@@ -1,0 +1,8 @@
+[1/2] Building CXX object CMakeFiles/sygxy-wave_synth.dir/sygxy-wave_synth.o
+FAILED: CMakeFiles/sygxy-wave_synth.dir/sygxy-wave_synth.o 
+/nix/store/f9q9ifxzrfaacn6dsw7n9qggq2jfcmd0-gcc-wrapper-13.1.0/bin/g++  -I/home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/.  -MD -MT CMakeFiles/sygxy-wave_synth.dir/sygxy-wave_synth.o -MF CMakeFiles/sygxy-wave_synth.dir/sygxy-wave_synth.o.d -o CMakeFiles/sygxy-wave_synth.dir/sygxy-wave_synth.o -c /home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/sygxy-wave_synth.cpp
+/home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/sygxy-wave_synth.cpp:9:10: fatal error: sygxy-wave_synth.hpp: No such file or directory
+    9 | #include "sygxy-wave_synth.hpp"
+      |          ^~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+ninja: build stopped: subcommand failed.
