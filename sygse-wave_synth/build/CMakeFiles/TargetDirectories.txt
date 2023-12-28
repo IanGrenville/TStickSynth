@@ -1,3 +1,0 @@
-/home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/build/CMakeFiles/sygxy-wave_synth.dir
-/home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/build/CMakeFiles/edit_cache.dir
-/home/ian/TStickProject/sygaldry/sygaldry/sygxy-wave_synth/build/CMakeFiles/rebuild_cache.dir

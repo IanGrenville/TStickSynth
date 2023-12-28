@@ -1,4 +1,0 @@
-# Target labels
- BuildOfficial
-# Source files and their labels
-/home/ian/TStickProject/sygaldry/dependencies/eigen/test/householder.cpp
